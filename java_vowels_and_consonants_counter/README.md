@@ -30,4 +30,5 @@ Condition in the following function should be "(args.length > 4)" if we want to 
     }
 ## Suggested Improvements
 Refactor "CountResult.java"  and "Main.java" to incorporate consonants counter
+
 Handle both lower and upper case when filtering vowels or consonants
