@@ -6,7 +6,6 @@ Tests use jUnit testing framework
 # Results
 ## Observations
 
-[1]
 com.exercise.VowelCounter.getVowelListWithCount
 
 It should probably change to "public static" so that it could be testable
