@@ -1,8 +1,9 @@
-# Vowels and Consonants counter
-## How to test
-All test files are available under "*src\java\com\exercise"
-Tests can be executed using jUnit testing framework
+# How to test
+All test files are available under "*src\test\java\com\exercise"
 
+Tests use jUnit testing framework
+
+# Results
 ## Observations
 
 [1]
@@ -28,6 +29,6 @@ Condition in the following function should be "(args.length > 4)" if we want to 
             return vowelCount;
         }
     }
-## Improvements
+## Suggested Improvements
 Refactor "CountResult.java"  and "Main.java" to incorporate consonants counter
 Handle both lower and upper case when filtering vowels or consonants
